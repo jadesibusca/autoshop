@@ -1,0 +1,316 @@
+.banner {
+    font-size: 20px;
+    font-family: "Arial";
+    color: rgb(101, 101, 101);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 412px;
+    top: 98.7px;
+    z-index: 8;
+    background-color: rgb(238, 238, 238);
+    position: absolute;
+    left: 200px;
+    top: 40px;
+    width: 800px;
+    height: 150px;
+    z-index: 7;
+  }
+
+  h1.tit {
+
+    margin-top: 50px;
+  }
+  
+  .main-nav{
+        font-size: 12px;
+        font-family: "Arial";
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        line-height: 1.2;
+        text-align: center;
+        position: absolute;
+        left: 350px;
+        top: 198.8px;
+        background-color: rgb(234, 106, 91);
+        position: absolute;
+        left: 200px;
+        top: 190px;
+        width: 800px;
+        height: 30px;
+        z-index: 3;
+              }
+              
+      
+              ul {
+                list-style-type: none;
+                margin: -15px;
+                padding: 0;
+                overflow: hidden;
+                
+              }
+
+        
+              
+              li {
+                float: left;
+              }
+              
+              li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 9px;
+                text-decoration: none;
+              }
+  
+     
+              .box{
+
+                color: #fff;
+        
+                padding: 20px;
+        
+                display: none;
+        
+                margin-top: 20px;
+        
+            }
+        
+            h2 {
+                font-size: 24px;
+                font-family: "Arial";
+                color: rgb(33, 33, 33);
+                font-weight: bold;
+                line-height: 1.2;
+                text-align: center;
+                position: absolute;
+                left: 517px;
+                top: 247.1px;
+                z-index: 19;
+              }
+
+              h3 {
+
+            
+                    font-size: 16px;
+                    font-family: "Arial";
+                    color: rgb(33, 33, 33);
+                    font-weight: bold;
+                    line-height: 1.2;
+                    text-align: left;
+                    position: absolute;
+                    left: 214px;
+                    top: 518.9px;
+                    z-index: 29;
+                  
+                  
+              }
+
+              p.tc {
+
+         
+                    font-size: 14px;
+                    font-family: "Arial";
+                    color: rgb(33, 33, 33);
+                    line-height: 1.2;
+                    text-align: left;
+                    position: absolute;
+                    left: 215px;
+                    top: 618.117px;
+                    z-index: 25;
+                  
+                  
+                  
+              }
+
+             p.cc {
+
+                
+              
+                    font-size: 14px;
+                    font-family: "Arial";
+                    color: rgb(33, 33, 33);
+                    line-height: 1.2;
+                    text-align: left;
+                    position: absolute;
+                    left: 215px;
+                    top: 588.6px;
+                    z-index: 23;
+                  }
+                  
+                  
+            
+
+             p.pn {
+
+            
+                    font-size: 14px;
+                    font-family: "Arial";
+                    color: rgb(33, 33, 33);
+                    line-height: 1.2;
+                    text-align: left;
+                    position: absolute;
+                    left: 216px;
+                    top: 558.6px;
+                    z-index: 21;
+                  }
+                  
+            #pntext {
+             
+                    background-image: url("Plate No. field.png");
+                    position: absolute;
+                    left: 357px;
+                    top: 565px;
+                    width: 192px;
+                    height: 20px;
+                    z-index: 22;
+                  
+                  
+            }
+
+              
+
+.myDiv{
+display:none;
+
+}  
+
+.myDiv1{
+display:none;
+
+}  
+
+.myDiv {
+  background-image: url("Default Car.png");
+  position: absolute;
+  left: 297px;
+  top: 308px;
+  width: 215px;
+  height: 166px;
+  z-index: 17;
+}
+.arr {
+  background-color: white;
+  position: absolute;
+  left: 572px;
+  top: 370px;
+  width: 50px;
+  height: 42px;
+
+}
+
+
+.myDiv1 {
+   
+  background-image: url("Default Car.png");
+  position: absolute;
+  left: 681px;
+  top: 308px;
+  width: 215px;
+  height: 166px;
+  z-index: 15;
+
+
+}
+
+
+#myselection {
+   
+        position: absolute;
+        left: 357px;
+        top: 597px;
+        width: 197px;
+        height: 24px;
+        z-index: 24;
+
+}
+
+  
+#myselection1 {
+
+        position: absolute;
+        left: 357px;
+        top: 627px;
+        width: 197px;
+        height: 24px;
+        z-index: 26;
+   
+   
+      
+}
+
+#sub {
+  
+        background-color: rgb(234, 106, 91);
+        position: absolute;
+        left: 212px;
+        top: 657px;
+        width: 150px;
+        height: 32px;
+        z-index: 30;
+        font-size: 14px;
+        font-family: "Arial";
+        color: rgb(255, 255, 255);
+        line-height: 1.2;
+        text-align: center;
+        position: absolute;
+  
+        z-index: 31;
+      
+  
+}
+
+.main-nav{
+	text-align: center;
+}
+
+.main-nav li{
+	display: inline;
+	padding: 15px;
+}
+
+
+
+.main-nav a {
+
+display: inline-block;
+position: relative;
+
+}
+
+.main-nav a:hover{
+	color: black;
+}
+
+
+.main-nav a:before{
+
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: -3px;
+  left: 0;
+  background-color: black;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.15s ease-in-out 0s;
+  transition: all 0.15s ease-in-out 0s;
+
+}
+
+.main-nav a:hover:before , .main-nav a.active:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+
+
+
+
+
+  
